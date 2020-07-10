@@ -3,7 +3,7 @@
 -->
 ### Welcome to Pham's github! 
 
-## 
+## Introduction
 Nhat Truong Pham received B.Eng. degree in Electronics and Telecommunication Engineering, Ton Duc Thang University, Vietnam, in 2019. Currently, he is Master's student in Automation and Control Engineering, Ton Duc Thang University, Vietnam. His research interests include Artificial General Intelligence, Applied Machine Learning, Deep Reinforcement Learning, Computer Vision, Speech Processing, Robotics and Intelligent Computation.
 
 <!--
